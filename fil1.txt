@@ -1,7 +1,13 @@
 Titel: Test 
 
+<<<<<<< HEAD
 Underrubrik: jgfigjgjijiiji
 
 Kapitel: 1
+=======
+Kapitel: 1
+>>>>>>> 41f5582088825c0c92b8541e214bff5978aa5ce3
 
 gsugjsgjsigjsigjsgjifndfgnfguefnoin
+
+wefefefefffffffefefefefvåflfef
