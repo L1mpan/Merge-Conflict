@@ -1,10 +1,17 @@
-Kapitel 11 
+<<<<<<< HEAD
+Kapitel 34 
 
 Fh4efh4uf
 
 
 
 twowow2eq2ed
+=======
+Kapitel 34 
+>>>>>>> 257a1bba1fe365b33eddeb2ea96a57007689e687
 
+Kapitel 2
+
+Test rad
 
 hej hej
